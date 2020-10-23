@@ -607,7 +607,9 @@ body{
 .gallery-grid{
 	width: 31.44%;
 	float:left;
+        
 }
+
 .gallery-grid p {
 	font-size: 0.875em;
 	padding: 0.2em 0em 1.2em 0em;
@@ -663,6 +665,7 @@ body{
 	background: #71D6EA;
 	color:#fff;
 }
+
 .gallery-grid h4{
 	font-family: 'PT Sans Narrow', sans-serif;
 	font-size: 18px;
