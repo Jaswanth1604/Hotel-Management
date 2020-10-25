@@ -28,14 +28,14 @@
 		
 		
 				<div class="header-top-nav">
-					<div class="wrap">
+					
 						<ul>
 							<ul class="nav nav-pills nav-fill bg-dark">
                                                         <li><a href="Home.html">Home</a></li>
-							<li><a href="about.html">About</a></li>
-							<li><a href="services.html">Services </a></li>
+							<li><a href="about.html">About & Contacts </a></li>
+							<li><a href="services .html">Services </a></li>
 							<li><a href="gallery.html">Gallery</a></li>
-                                                        <li><a href="Contact.html">Contacts</a></li>
+                                                        <li><a href="Bookings.html">My Bookings</a></li>
 							<div class="clear"> </div>
 					</div>
 				</div>
@@ -107,8 +107,8 @@ Built to mark a renaissance in standards of service and style, the 188 exquisite
 				    <div class="clear"> </div>
 				    <div class="projects-bottom-paination">
 						<ul>
-							<li class="active"><a href="#">1</a></li>
-							<li><a href="#">2</a></li>
+							<li class="active"><a href="Gallery.html">1</a></li>
+							<li><a href="Gallery2.html">2</a></li>
 						</ul>
 					</div>
 				</div>

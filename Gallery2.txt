@@ -28,14 +28,14 @@
 		
 		
 				<div class="header-top-nav">
-					<div class="wrap">
+					
 						<ul>
 							<ul class="nav nav-pills nav-fill bg-dark">
                                                         <li><a href="Home.html">Home</a></li>
-							<li><a href="about.html">About</a></li>
+							<li><a href="about.html">About & Contacts</a></li>
 							<li><a href="services.html">Services </a></li>
 							<li><a href="gallery.html">Gallery</a></li>
-                                                        <li><a href="Contact.html">Contacts</a></li>
+                                                        <li><a href="Bookings.html">My Bookings</a></li>
 							<div class="clear"> </div>
 					</div>
 				</div>
@@ -57,16 +57,15 @@
 						</div>
 						<div class="gallery-grid grid2">
 							<a href="images/Hotel5.jpg"><img src="images/Hotel5.jpg" alt=" Deluxe rooms" width="350" height="219"></a>
-							<h4>Agoda Hotels</h4>
-							<p> In addition to its accommodation booking platform, Agoda also has its own flight product, allowing users to book airfares on its site without having to leave the platform. 
-The Agoda VIP program enables participating properties to offer exclusive discounts to Agoda VIP status customers, categorized as VIPs because they have made a minimum of five bookings on Agoda in the past 24 months, and are less inclined to cancel bookings.</p>
-							<div class="gallery-button"><a href=#"https://www.agoda.com/en-in/?cid=1844104"target="popup" onclick="window.open('https://www.agoda.com/en-in/?cid=1844104','name','width=600,height=400')">For More Details</a></div>
+							<h4>Radison Blu Hotels</h4>
+							<p>Radisson Hotel Group is one of the world's largest and most dynamic hotel groups with seven distinctive hotel brands with more than 1,100 hotels in destinations around the world. Our portfolio of hotel brands includes: Radisson Collection, Radisson Blu, Radisson, Radisson RED, Park Plaza, Park Inn by Radisson and Country Inn & Suites by Radisson.</p></br>
+							<div class="gallery-button"><a href=#"https://www.radissonhotelgroup.com/#"target="popup" onclick="window.open('https://www.radissonhotelgroup.com/#','name','width=600,height=400')">For More Details</a></div>
 						</div>
 						<div class="gallery-grid">
 							<a href="images/Hotel6.jpg"><img src="images/Hotel6.jpg" alt=" Deluxe rooms" width="350" height="219"></a>
-							<h4>Grand Oriental Hotel</h4>
-							<p>The Grand Oriental Hotel (or GOH as it is familiarly known far and wide) was the first of the modern type of imposing hotels erected in the East. With its towering front facing the harbour and the shipping and its main portico separated by only a few yards from the principle landing stage; and passengers by the mall steamers who are passing through the port are especially catered for at this establishment in the very best style…</p>
-							<div class="gallery-button"><a href=#"https://www.grandoriental.com/"target="popup" onclick="window.open('https://www.grandoriental.com/','name','width=600,height=400')">For More Details</a></div>
+							<h4>Leela Palace Hotels</h4>
+							<p>The Leela Palaces, Hotels and Resorts, commonly known as The Leela, is an Indian luxury hotel chain, founded in 1986 by C. P. Krishnan Nair, and owned by Brookfield Asset Management. Currently, The Leela is a group of eight luxury palaces and hotels.During the time that India was scripting a new destiny, The Leela was creating iconic landmarks surpassing all expectations.</p>
+							<div class="gallery-button"><a href=#"https://www.theleela.com/en_us/"target="popup" onclick="window.open('https://www.theleela.com/en_us/','name','width=600,height=400')">For More Details</a></div>
 						</div>
 						<div class="clear"> </div>
 					</div>
@@ -74,27 +73,21 @@ The Agoda VIP program enables participating properties to offer exclusive discou
 					<div class="gallery-grids">
 						<div class="gallery-grid">
 							<a href="images/Hote7.jpg"><img src="images/Hotel7.jpg" alt="" width="350" height="219"></a>
-							<h4>Grand Hotel</h4>
-							<p> At Grand Hotel, no two rooms are alike. Our unique accommodations have been individually decorated by America’s first and most acclaimed design firm — and each features a specific theme brought to life with colorful décor.Throughout the history of Grand Hotel, dining has been one of the highlights of every guest experience.
-
-Here, each meal is truly special thanks to the exceptional food by our chefs, unsurpassed service by our staff, and distinct ambiances of our 14 bars and restaurants.</p>
-							<div class="gallery-button"><a href=#"https://www.grandhotel.com/"target="popup" onclick="window.open('https://www.grandhotel.com/','name','width=600,height=400')">Know more Details</a></div>
+							<h4>Fairmont Mayakoba</h4>
+							<p>The luxury AAA-5 Diamond and Rainforest Certified Fairmont Mayakoba Riviera Maya resort is located in a private gated resort community, within 240 hectares of tropical forest intersected by crystal clear waterways and surrounded by a pristine Caribbean shoreline, 30 miles from the Cancun International (CUN) airport, near the town of Playa del Carmen. </p></br>
+							<div class="gallery-button"><a href=#"https://www.fairmont.com/mayakoba-riviera-maya/"target="popup" onclick="window.open('https://www.fairmont.com/mayakoba-riviera-maya/','name','width=600,height=400')">Know more Details</a></div>
 						</div>
 						<div class="gallery-grid grid2">
 							<a href="images/Hotel8.jpg"><img src="images/Hotel8.jpg" alt="" width="350" height="219"></a>
-							<h4>ITC Kakatiya</h4>
-							<p>Overlooking sweeping stretches of Hyderabad's green cover and the iconic Hussain Sagar Lake, ITC Kakatiya pays tribute to the age of the great Kakatiya Dynasty.
-
- 
-
-Built to mark a renaissance in standards of service and style, the 188 exquisitely-furnished guest rooms and suites at ITC Kakatiya are the finest in hospitality. ITC Kakatiya serves as a great business hotel for the discerning business traveler. The hotel is also equipped with state-of-the art business and conference facilities. </p>
-							<div class="gallery-button"><a href=#"https://www.itchotels.in/hotels/hyderabad/itckakatiya.html"target="popup" onclick="window.open('https://www.itchotels.in/hotels/hyderabad/itckakatiya.html','name','width=600,height=400')">Know More Details</a></div>
+							<h4>Crowne Plaza</h4>
+							<p>Crowne Plaza is a multinational chain of full service, upscale hotels headquartered in the United Kingdom. It is catering to business travelers and to the meetings and conventions market.It forms part of the InterContinental Hotels Group family of brands, which include InterContinental Hotels & Resorts and Holiday Inn Hotels & Resorts, and operates in nearly 100 countries with more than 3600 hotels and 118,000 bedrooms</p>
+							<div class="gallery-button"><a href=#"https://www.ihg.com/crowneplaza/hotels/us/en/kochi/cokch/hoteldetail"target="popup" onclick="window.open('https://www.ihg.com/crowneplaza/hotels/us/en/kochi/cokch/hoteldetail','name','width=600,height=400')">Know More Details</a></div>
 						</div>
 						<div class="gallery-grid">
 							<a href="images/Hotel9.jpg"><img src="images/Hotel9.jpg" alt="" width="350" height="219"></a>
-							<h4>Hyatt Hotels</h4>
-							<p>Hyatt Hotels Corporation, commonly known as Hyatt Hotels & Resorts, is an American multinational hospitality company headquartered in the Riverside Plaza area of Chicago that manages and franchises luxury and business hotels, resorts, and vacation propertiesHyatt-branded properties have traditionally catered to upscale or business customers; its properties were either full-service or boutique hotels.In 1980, Hyatt added the Grand Hyatt and Park Hyatt brands to its portfolio.</p>
-							<div class="gallery-button"><a href=#"https://www.hyatt.com/"target="popup" onclick="window.open('https://www.hyatt.com/','name','width=600,height=400')">Know More Details</a></div>
+							<h4>Shangri-La Hotels</h4>
+							<p>Shangri-La is a fictional place described in the 1933 novel Lost Horizon by British author James Hilton. Hilton describes Shangri-La as a mystical, harmonious valley, gently guided from a lamasery, enclosed in the western end of the Kunlun Mountains.Shangri-La has become synonymous with any earthly paradise, particularly a mythical Himalayan utopia – a permanently happy land, isolated from the world. In the novel, the people who live at Shangri-La are almost immortal, </p>
+							<div class="gallery-button"><a href=#"https://www.shangri-la.com/"target="popup" onclick="window.open('https://www.shangri-la.com/','name','width=600,height=400')">Know More Details</a></div>
 						</div>
 					</div>
 					<script type="text/javascript" src="js/jquery.lightbox.js"></script>
