@@ -124,7 +124,7 @@
 						    </div>
 						   <div>
                                                                  
-						   		<a href="Submit.html"><button type="submit" class="btn btn-primary">Submit</a></button>
+						   		<a href="Submit.html"><button type="submit" >Submit</a></button>
 						  </div>
 					    </form>
 
